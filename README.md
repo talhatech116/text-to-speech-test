@@ -87,7 +87,8 @@ Have ideas to improve VoiceBridge? PRs and suggestions are welcome!
 
 ## 📄 License
 
-Released under the **MIT License** — free to use and extend.
+© 2025 Talha — All rights reserved.
+Unauthorized copying, distribution, or modification of this software is strictly prohibited without explicit permission from the owner.
 
 ---
 
