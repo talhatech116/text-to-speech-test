@@ -92,8 +92,6 @@ Unauthorized copying, distribution, or modification of this software is strictly
 
 ---
 
-⭐ If you find this helpful, **star the repository** and share it!
-
 
 
 
