@@ -54,18 +54,6 @@ No signup required — just type, translate, and listen!
 
 ---
 
-## 🧠 Why VoiceBridge?
-
-VoiceBridge is designed to **streamline the multilingual workflow** by allowing users to:
-
-- Translate text in multiple languages at once  
-- Immediately **listen to translated results using natural AI voices**  
-- Keep track of **both translation and speech activity separately**  
-
-This creates a **faster, more organized, and accessible communication experience** — ideal for learners, travelers, educators, businesses, and content creators.
-
----
-
 ## 🛠️ Tech Stack
 
 | Layer      | Technology |
