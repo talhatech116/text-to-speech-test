@@ -11,7 +11,8 @@
 - **Visual language grid selector** for quick swapping
 - Clean and distraction-free interface
 
-https://github.com/user-attachments/assets/bc5362f0-ca70-4ebd-b143-280111795016
+
+<img width="1409" height="707" alt="Main Home Page Translation Tab" src="https://github.com/user-attachments/assets/bc5362f0-ca70-4ebd-b143-280111795016" />
 
 ---
 
@@ -20,7 +21,7 @@ https://github.com/user-attachments/assets/bc5362f0-ca70-4ebd-b143-280111795016
 - Organized by **timestamp & source language**
 - Displays **original and translated text side-by-side**
 
-https://github.com/user-attachments/assets/a8af87c0-2de9-4818-9aea-660e983279cc
+<img width="1317" height="691" alt="Translation History " src="https://github.com/user-attachments/assets/a8af87c0-2de9-4818-9aea-660e983279cc" />
 
 ---
 
@@ -30,7 +31,7 @@ https://github.com/user-attachments/assets/a8af87c0-2de9-4818-9aea-660e983279cc
 - Adjustable **speed and pitch settings**
 - Playback controls: **Play · Pause · Stop**
 
-https://github.com/user-attachments/assets/f5986552-6a28-4728-910f-ad1c30540d47
+<img width="1410" height="706" alt="Generate Speech" src="https://github.com/user-attachments/assets/f5986552-6a28-4728-910f-ad1c30540d47" />
 
 ---
 
@@ -39,7 +40,7 @@ https://github.com/user-attachments/assets/f5986552-6a28-4728-910f-ad1c30540d47
 - Displays **voice type and language metadata**
 - Quickly **replay previous speech outputs**
 
-https://github.com/user-attachments/assets/4e6282b3-722d-40e1-8e7e-81473530d6da
+<img width="1342" height="699" alt="Sppech History" src="https://github.com/user-attachments/assets/4e6282b3-722d-40e1-8e7e-81473530d6da" />
 
 ---
 
